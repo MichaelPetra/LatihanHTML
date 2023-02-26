@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Biodata Saya</title>
+</head>
+<body>
+<table">
+
+<h1><b><u>BIODATA</u></b></h1>
+</font></td></tr>
+<p><img src = "C:\Users\Asus\OneDrive\Pictures\IMG_20221026_192314.jpg" width = "130"></p>
+<tr>
+<p><td>NAMA : </td>
+<td>Michael Petra Christama</td>
+</tr></p>
+<p><tr>
+<td>NIM : </td>
+<td>215314205</td>
+</tr></p>
+<p><tr>
+<td>Asal : </td>
+<td>Palangka Raya, Kalimantan Tengah</td>
+</tr></p>
+<p><tr>
+<td>Universitas Sanata Dharma</td>
+</tr></p>
+<p><tr>
+<td>Prodi : </td>
+<td>Informatika</td>
+</tr></p>
+<p><tr>
+<td>Umur : </td>
+<td>20 tahun</td>
+</tr></p>
+<p><tr>
+<td>Alamat : </td>
+<td>Paingan</td>
+</tr></p>
+
+</table>
+</body>
+</html>
